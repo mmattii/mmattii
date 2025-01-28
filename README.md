@@ -1,9 +1,9 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mmattii">Programmer</a>, <a href="www.linkedin.com/in/matthew-mitchell-553a38332">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mmattii">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-mitchell-553a38332?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFPNhA8BMYd_g288IvU5WgFNbfBu4UvYJeU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BYMZvRx6GScaBB9jlZqSAqw%3D%3D">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Key Logger (VS Studio)</b>
-  - [Praciting Key Logger Code](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Key Logger Code]()
 
 <h2> 🤳 Connect with me:</h2>
 
